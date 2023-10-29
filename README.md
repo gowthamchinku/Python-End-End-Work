@@ -1,5 +1,5 @@
 # Python_Learnings
-This repository is created to understand and work with python. All the documents and codes are uploaded to this repository. Adding lines from the webui and pull the changes
+This repository is created to understand and work with python. All the documents and codes are uploaded to this repository. 
 
 ## Day 1: Introduction to Python, Installation, and Configuration
 - Introduction to Python and its role in DevOps.
